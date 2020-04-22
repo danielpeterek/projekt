@@ -1,7 +1,7 @@
 # Launchpad - projekt
 
 ## Popis
-- Cílem je udělat funkční zvukový launchpad (odkaz na profi https://www.youtube.com/watch?v=gMgxLPcq-3o ), nejlépe 6x6, hlavně podsvícený
+- Cílem je udělat funkční zvukový launchpad (odkaz na profi https://www.youtube.com/watch?v=gMgxLPcq-3o ), nejlépe podsvícený
 
 ## Inspirace - odkazy
 - https://learn.adafruit.com/untztrument-trellis-midi-instrument/assemble-case 10/10
