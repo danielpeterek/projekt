@@ -5,11 +5,11 @@
 
 ## Inspirace - odkazy
 - https://learn.adafruit.com/untztrument-trellis-midi-instrument/assemble-case 10/10
-  https://www.dfrobot.com/blog-788.html
-  8x8 mini launchpad
+- https://www.dfrobot.com/blog-788.html
+  > 8x8 mini launchpad
  
 - https://www.youtube.com/watch?v=DS3cwTbc7yc
-  4x4, jiný design
+  > 4x4, jiný design
 
 - https://www.instructables.com/id/DIY-Arduino-Launchpad/ 9/10
 - https://www.musiconerd.com/single-post/Build-this-MIDI-controller-Fliper-Dj 8/10
