@@ -20,7 +20,7 @@
 ## Hardware
 - Arduino Nano
 - 25, 36 tlačítek
-- LEDky
+- LEDky (https://www.dribin.org/dave/keyboard/one_html/)
 ## Software
 - Arduino
 - Hairless MIDI<->Serial Bridge
