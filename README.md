@@ -17,7 +17,11 @@
 - https://sites.google.com/site/uglybuckling/MIDI-controller 2/10
 - https://learn.adafruit.com/star-trek-sound-board-with-neotrellism4 2/10
 
-## Hardware, software
+## Hardware
+- Arduino Nano
+- 25, 36 tlačítek
+- LEDky
+## Software
 - Arduino
 - Hairless MIDI<->Serial Bridge
 - loopMIDI
