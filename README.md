@@ -1,7 +1,7 @@
-# Launchpad - projekt
+# MIDI controller, Launchpad - projekt
 
 ## Popis
-- Cílem je udělat funkční MIDI controller 4x4 (https://medium.com/@monkeytypewritr/building-your-own-midi-fighter-406948137f8f) nebo zvukový launchpad 5x5, 6x6 (odkaz na profi https://www.youtube.com/watch?v=gMgxLPcq-3o ), nejlépe podsvícený. Pomocí softwaru (FL Studio) bude hrát nahrané zvuky, zvukové efekty
+- Cílem je udělat funkční MIDI controller 4x4 (https://medium.com/@monkeytypewritr/building-your-own-midi-fighter-406948137f8f), zvukový launchpad (odkaz na profi https://www.youtube.com/watch?v=gMgxLPcq-3o ), nejlépe podsvícený. Pomocí softwaru (FL Studio) bude hrát nahrané zvuky, zvukové efekty
 
 ## Inspirace - odkazy
 - https://medium.com/@monkeytypewritr/building-your-own-midi-fighter-406948137f8f
@@ -18,7 +18,8 @@
 
 ## Hardware
 - Arduino (Nano, Uno či Leonardo)
-- 16 arkádových nebo 25 mikrokontrolérových tlačítek
+- 4x4 gumové spínací pole
+- 16 arkádových nebo mikrospínacích tlačítek
 - LEDky (https://www.dribin.org/dave/keyboard/one_html/)
 ## Software
 - Arduino
