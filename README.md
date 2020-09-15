@@ -19,7 +19,7 @@
 ## Hardware
 - Arduino (Nano, Uno či Leonardo)
 - 4x4 gumové spínací pole
-- 16 arkádových nebo mikrospínacích tlačítek
+- později 16 arkádových nebo mikrospínacích tlačítek
 - LEDky (https://www.dribin.org/dave/keyboard/one_html/)
 ## Software
 - Arduino
