@@ -19,7 +19,7 @@
 ## Hardware (2 verze)
 - Arduino Nano
 - Spínací pole 4x4
-
+-
 - Arduino Uno
 - 16 arkádových tlačítek
 - LEDky WS2812
