@@ -17,10 +17,8 @@
 
 
 ## Hardware
-- Arduino (Nano, Uno či Leonardo)
-- 4x4 gumové spínací pole
-- později 16 arkádových nebo mikrospínacích tlačítek
-- LEDky (https://www.dribin.org/dave/keyboard/one_html/)
+- První návrh: - Arduino Nano
+               - 4x4 spínací pole
 ## Software
 - Arduino
 - Hairless MIDI<->Serial Bridge
