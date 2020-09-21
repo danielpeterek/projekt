@@ -1,7 +1,7 @@
 # MIDI controller, Launchpad - projekt
 
 ## Popis
-- Cílem je udělat funkční MIDI controller 4x4 (https://medium.com/@monkeytypewritr/building-your-own-midi-fighter-406948137f8f), zvukový launchpad (odkaz na profi https://www.youtube.com/watch?v=gMgxLPcq-3o ), nejlépe podsvícený. Pomocí softwaru (FL Studio) bude hrát nahrané zvuky, zvukové efekty
+- Cílem je udělat funkční MIDI controller 4x4 (https://medium.com/@monkeytypewritr/building-your-own-midi-fighter-406948137f8f), nejlépe podsvícený. Pomocí softwaru (FL Studio) bude hrát nahrané zvuky, zvukové efekty
 
 ## Inspirace - odkazy
 - https://medium.com/@monkeytypewritr/building-your-own-midi-fighter-406948137f8f
@@ -16,11 +16,15 @@
 - https://sites.google.com/site/uglybuckling/MIDI-controller 
 
 
-## Hardware
-- První návrh: - Arduino Nano
-               - 4x4 spínací pole
+## Hardware (2 verze)
+- Arduino Nano
+- Spínací pole 4x4
+
+- Arduino Uno
+- 16 arkádových tlačítek
+- LEDky WS2812
 ## Software
-- Arduino
+- Arduino (využiju knihovnu keypad a FASTLed)
 - Hairless MIDI<->Serial Bridge
 - loopMIDI
 
