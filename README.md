@@ -36,3 +36,5 @@
 - ladění chyb
 - ladění dokumentace
 - ukázka funkčnosti
+-----------------------
+- prozatím jsem vyzkoušel 4x4 pole v arduino IDE, později přepíšu do platformIO
