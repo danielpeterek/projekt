@@ -29,7 +29,7 @@
 - loopMIDI
 
 ## Postup práce
-- objednání součástek (stále nejsem rozhodnut, jaká tlačítka použít)
+- objednání součástek ✔
 - náčrty, grafický návrh
 - schéma
 - zapojování součástek, průběžná dokumentace
